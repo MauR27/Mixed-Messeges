@@ -1,0 +1,3 @@
+# MIXED MESSAGES
+
+### this simple script show a variority of voice lines from leblanc from league of legends...
